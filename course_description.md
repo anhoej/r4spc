@@ -115,10 +115,6 @@ to prepare. Just saying 😉
 
 ## Who am I?
 
-<!-- <div style = 'float:right; margin-left:1em'> -->
-<!-- ![Me on a bad hair day<br>after nearly 6 months<br>corona lockdown](images/jacob_badhair.jpg) -->
-<!-- </div> -->
-
 <img align='right' src='images/jacob_badhair.jpg'>
 
 I am a medical doctor working at
