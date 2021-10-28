@@ -1,4 +1,4 @@
-Statistical process control charts with R masterclass
+Statistical process control charts with R
 ================
 Jacob Anhøj (<jacob@anhoej.net>)<br>
 October 2021
@@ -116,8 +116,6 @@ To shape your SPC thinking you should have read these two articles:
     charts: tutorial notes for healthcare practitioners. Qual Saf Health
     Care. 2008 Apr;17(2):137-45. doi:
     [10.1136/qshc.2004.012047](https://doi.org/10.1136/qshc.2004.012047).
-    If you are working in the NHS, here is a direct [link to the full
-    paper](https://qi.elft.nhs.uk/wp-content/uploads/2018/10/Mohammed-et-al-2008-Plotting-basic-control-charts.pdf).
 
 Finally, you need to bring a computer with a recent versions of
 [R](https://www.r-project.org/) (≥ 4.1), [RStudio](https://rstudio.com/)
