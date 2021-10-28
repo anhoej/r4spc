@@ -126,8 +126,8 @@ package installed.
 will be no time during the masterclass to fix individual installation
 problems.
 
-You may want to set a day aside at least one week before the masterclass
-to prepare. Just saying 😉
+You may want to set a day aside before the masterclass to prepare. Just
+saying 😉
 
 ## Who am I?
 
