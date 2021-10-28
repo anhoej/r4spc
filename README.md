@@ -97,7 +97,7 @@ First, download the course files:
 -   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R>
 -   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R>
 
-… or get everything from the GitHub repo:
+… or get everything from this GitHub repo:
 <https://github.com/anhoej/r4spc> (click the green `Code` button, then
 `Download ZIP`).
 
@@ -137,14 +137,17 @@ to prepare. Just saying 😉
 
 I am a medical doctor working at
 [Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx)
-in Copenhagen, Denmark. I graduated in 1992 and after nine years of
-clinical work and research I worked for four years in a pharmaceutical
-company with research and health IT while studying information
-technology at the IT University of Copenhagen. Since 2005 I have worked
-almost exclusively with patient safety and quality improvement in
-healthcare. My main interest and area of research is use of statistical
-methods in quality improvement. At present, my main job involves
-[surveillance of hospital infections and antibiotic
+in Copenhagen, Denmark.
+
+I graduated in 1992 and after nine years of clinical work and research I
+worked for four years in a pharmaceutical company with research and
+health IT. At the same time, I took a diploma in information technology
+at the IT University of Copenhagen.
+
+Since 2005 I have worked almost exclusively with patient safety and
+quality improvement in healthcare. My main interest and area of research
+is use of statistical methods in quality improvement. At present, my
+main job involves [surveillance of hospital infections and antibiotic
 use](https://regionh.shinyapps.io/hais/) in the Capital Region of
 Denmark.
 
