@@ -2,10 +2,18 @@ Statistical process control charts with R masterclass
 ================
 Jacob Anhøj (E-mail: <jacob@anhoej.net>)<br>
 October 2021
+<hr>
+
+-   [What will you learn?](#what-will-you-learn)
+-   [Who are you?](#who-are-you)
+-   [How should you prepare for the
+    masterclass?](#how-should-you-prepare-for-the-masterclass)
+-   [Who am I?](#who-am-i)
+-   [Further up, further in](#further-up-further-in)
 
 ------------------------------------------------------------------------
 
-This full-day masterclass is for R programmers who want to learn
+This one-day masterclass is for R programmers who want to learn
 statistical process control (SPC) for continuous quality improvement.
 
 *Statistical Process Control is not about statistics, it is not about
@@ -84,9 +92,18 @@ You …
 
 ## How should you prepare for the masterclass?
 
-To get the most out of the masterclass and to help the masterclass to a
-flying start it is important that you have the necessary knowledge and
-skills mentioned above.
+First, download the course files:
+
+-   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_assignment.R>
+-   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R>
+
+… or get everything from the GitHub repo:
+<https://github.com/anhoej/r4spc> (click the green `Code` button, then
+`Download ZIP`).
+
+Next, to get the most out of the masterclass and to help the masterclass
+to a flying start it is important that you have the necessary knowledge
+and skills mentioned above.
 
 To shape your SPC thinking you should have read these two articles:
 
@@ -165,7 +182,7 @@ I have written several articles on SPC:
     One. 2020 Jun 4;15(6):e0233920. doi:
     [10.1371/journal.pone.0233920](https://doi.org/10.1371/journal.pone.0233920).
 
-## Further reading
+## Further up, further in
 
 SPC is almost 100 years old – older than the randomised controlled trial
 – so it is no surprise that there are wast amounts of resources out

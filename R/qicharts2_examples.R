@@ -1,22 +1,28 @@
-######################################################
+################################################################################
 
 # This R script demonstrates the basic functionality of the qic() function from
 # the qicharts2 package for constructing run and control charts.
 #
-# You need recent versions of R and RStudio installed on your computer and the
-# latest version of the qicharts2 package installed in R.
+# You need a recent versions of R (> 4.1) and RStudio installed on your computer
+# and the latest version of the qicharts2 package installed in R.
 #
-# Place the script in a separate folder together with the data file,
-# qicharts2_wrkshp.RData.
-#
-# Open RStudio by double clicking this file from file manager.
-#
-# Jacob Anhøj, 2018-10-15
+# Jacob Anhøj, 2021-10-28
 
-######################################################
+################################################################################
 
-load('qicharts2_wrkshp.RData')
 library(qicharts2)
+
+# Load data ---
+load(
+  url(
+    'https://github.com/anhoej/r4spc/raw/main/data/qicharts2_examples.RData'
+    )
+  )
+
+# Using the new pipe operator, |>
+# 'https://github.com/anhoej/r4spc/raw/main/data/qicharts2_examples.RData' |>
+#   url() |>
+#   load()
 
 # HELP! ----
 help('qic')
