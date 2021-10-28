@@ -1,6 +1,6 @@
 Statistical process control charts with R masterclass
 ================
-Jacob Anhøj (E-mail: <jacob@anhoej.net>)<br>
+Jacob Anhøj (<jacob@anhoej.net>)<br>
 October 2021
 <hr>
 
@@ -119,10 +119,11 @@ To shape your SPC thinking you should have read these two articles:
     If you are working in the NHS, here is a direct [link to the full
     paper](https://qi.elft.nhs.uk/wp-content/uploads/2018/10/Mohammed-et-al-2008-Plotting-basic-control-charts.pdf).
 
-Finally, you need to bring a computer with recent versions of
+Finally, you need to bring a computer with a recent versions of
 [R](https://www.r-project.org/) (≥ 4.1), [RStudio](https://rstudio.com/)
-(≥ 1.4), and the [tidyverse](https://www.tidyverse.org/) and
-[qicharts2](https://anhoej.github.io/qicharts2/) packages installed.
+(≥ 1.4), and the [qicharts2](https://anhoej.github.io/qicharts2/)
+package installed.
+
 **Please check that your R installation is fully functional** as there
 will be no time during the masterclass to fix individual installation
 problems.
@@ -137,13 +138,13 @@ to prepare. Just saying 😉
 I am a medical doctor working at
 [Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx)
 in Copenhagen, Denmark. I graduated in 1992 and after nine years of
-clinical work and research I worked four years in a pharmaceutical
-company in research and health IT while studying information technology
-at the IT University of Copenhagen. Since 2005 I have worked almost
-exclusively with patient safety and quality improvement in healthcare.
-My main interest and area of research is use of statistical methods in
-quality improvement. At present, my main job involves [surveillance of
-hospital infections and antibiotic
+clinical work and research I worked for four years in a pharmaceutical
+company with research and health IT while studying information
+technology at the IT University of Copenhagen. Since 2005 I have worked
+almost exclusively with patient safety and quality improvement in
+healthcare. My main interest and area of research is use of statistical
+methods in quality improvement. At present, my main job involves
+[surveillance of hospital infections and antibiotic
 use](https://regionh.shinyapps.io/hais/) in the Capital Region of
 Denmark.
 
