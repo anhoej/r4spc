@@ -1,5 +1,4 @@
-Statistical process control charts with R – masterclass for R
-programmers
+Statistical process control charts with R masterclass
 ================
 Jacob Anhøj (E-mail: <jacob@anhoej.net>)<br>
 October 2021
@@ -116,22 +115,22 @@ to prepare. Just saying 😉
 
 ## Who am I?
 
-<div style="float:right; margin-left:1em">
+<!-- <div style = 'float:right; margin-left:1em'> -->
+<!-- ![Me on a bad hair day<br>after nearly 6 months<br>corona lockdown](images/jacob_badhair.jpg) -->
+<!-- </div> -->
 
-![Me on a bad hair day<br>after nearly 6 months<br>corona
-lockdown](images/jacob_badhair.jpg)
-
-</div>
+<img align='right' src='images/jacob_badhair.jpg'>
 
 I am a medical doctor working at
 [Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx)
 in Copenhagen, Denmark. I graduated in 1992 and after nine years of
 clinical work and research I worked four years in a pharmaceutical
-company with clinical research and health IT while taking a diploma in
-IT. Since 2005 I have worked almost exclusively with patient safety and
-quality improvement in healthcare. My main interest and area of research
-is use of statistical methods in quality improvement. At present, my
-main job involves [surveillance of hospital infections and antibiotic
+company in research and health IT while studying information technology
+at the IT University of Copenhagen. Since 2005 I have worked almost
+exclusively with patient safety and quality improvement in healthcare.
+My main interest and area of research is use of statistical methods in
+quality improvement. At present, my main job involves [surveillance of
+hospital infections and antibiotic
 use](https://regionh.shinyapps.io/hais/) in the Capital Region of
 Denmark.
 
