@@ -69,7 +69,7 @@ After the masterclass you will be able to …
 The masterclass is 100% PowerPoint-free and contains a mixture of
 lecturing, discussion, Q&A, live R coding, and exercises. During the
 day, you will build your own [R function for control chart
-construction](R/r4spc_assignment.R).
+construction](R/r4spc_solution.R).
 
 ## Who are you?
 
@@ -94,7 +94,7 @@ You …
 
 First, download the course files:
 
--   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_assignment.R>
+-   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R>
 -   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R>
 
 … or get everything from the GitHub repo:
