@@ -68,8 +68,7 @@ After the masterclass you will be able to …
 
 The masterclass is 100% PowerPoint-free and contains a mixture of
 lecturing, discussion, Q&A, live R coding, and exercises. During the
-day, you will build your own [R function for control chart
-construction](R/r4spc_solution.R).
+day, you will build your own R function for control chart construction.
 
 ## Who are you?
 
@@ -94,8 +93,8 @@ You …
 
 First, download the course files:
 
--   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R>
--   <https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R>
+-   [r4spc_solution.R](https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R)
+-   [qicharts2_examples.R](https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R)
 
 … or get everything from this GitHub repo:
 <https://github.com/anhoej/r4spc> (click the green `Code` button, then
@@ -113,14 +112,15 @@ To shape your SPC thinking you should have read these two articles:
     [10.1136/bmjqs-2015-004951](https://doi.org/10.1136/bmjqs-2015-004951).
 
 2.  Mohammed MA, Worthington P, Woodall WH. Plotting basic control
-    charts: tutorial notes for healthcare practitioners. Qual Saf Health
-    Care. 2008 Apr;17(2):137-45. doi:
+    charts: tutorial notes for healthcare practitioners. doi:
     [10.1136/qshc.2004.012047](https://doi.org/10.1136/qshc.2004.012047).
+    If you are working in the NHS, here is a direct [link to the full
+    paper](https://qi.elft.nhs.uk/wp-content/uploads/2018/10/Mohammed-et-al-2008-Plotting-basic-control-charts.pdf).
 
-Finally, you need to bring a computer with a recent versions of
-[R](https://www.r-project.org/) (≥ 4.1), [RStudio](https://rstudio.com/)
-(≥ 1.4), and the [qicharts2](https://anhoej.github.io/qicharts2/)
-package installed.
+Finally, you need to bring a computer with recent versions of
+[R](https://www.r-project.org/) (≥ 4.1) and
+[RStudio](https://rstudio.com/) (≥ 1.4) and the
+[qicharts2](https://anhoej.github.io/qicharts2/) package installed.
 
 **Please check that your R installation is fully functional** as there
 will be no time during the masterclass to fix individual installation
