@@ -17,6 +17,8 @@ library(qicharts2)
 
 ---
 
+testtest
+
 This full-day masterclass is for R programmers who want to learn statistical process control (SPC) for continuous quality improvement.
 
 *Statistical Process Control is not about statistics, it is not about “process-hyphen-control”, and it is not about conformance to specifications. […] It is about the continual improvement of processes and outcomes. And it is, first and foremost, a way of thinking with some tools attached.<br>-- Donald Wheeler, Understanding Variation, 2nd ed. p. 152*
