@@ -138,7 +138,7 @@ saying 😉
 
 ## Who am I?
 
-<img align='right' src='images/jacob_badhair.jpg'>
+<img alt='Me on a bad-hair day after 6 months corona lockdown' title='Me on a bad-hair day after 6 months corona lockdown' align='right' src='images/jacob_badhair.jpg'>
 
 I am a medical doctor working at
 [Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx)
