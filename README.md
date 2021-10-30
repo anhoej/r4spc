@@ -95,7 +95,7 @@ First, download the course files:
 
 -   [r4spc_solution.R](https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R)
 
--   [r4spc.rds](https://github.com/anhoej/r4spc/raw/main/data/r4spc.rds)
+-   [r4spc_data.rds](https://github.com/anhoej/r4spc/raw/main/data/r4spc_data.rds)
 
 -   [qicharts2_examples.R](https://raw.githubusercontent.com/anhoej/r4spc/main/R/qicharts2_examples.R)
 
