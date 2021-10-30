@@ -21,4 +21,4 @@ d <- data.frame(x = 1:24,
                 events,
                 days)
 
-saveRDS(d, 'data/r4spc.rds')
+saveRDS(d, 'data/r4spc_data.rds')
