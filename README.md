@@ -91,7 +91,8 @@ You …
 
 ## How should you prepare for the masterclass?
 
-First, download the course files:
+First, download the course files to a separate folder (e.g. “r4spc”) on
+your computer:
 
 -   [r4spc_solution.R](https://raw.githubusercontent.com/anhoej/r4spc/main/R/r4spc_solution.R)
 

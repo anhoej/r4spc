@@ -148,7 +148,7 @@ x <- Sys.Date() - rev(seq_along(y))
 spc(x, y)
 
 # Data frame examples
-d <- readRDS(url('https://github.com/anhoej/r4spc/raw/main/data/r4spc.rds'))
+d <- readRDS(url('https://github.com/anhoej/r4spc/raw/main/data/r4spc_data.rds'))
 
 spc(x, measure,
     data  = d,
