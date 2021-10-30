@@ -130,7 +130,7 @@ Finally, you need to bring a computer with recent versions of
 
 **Please check that your R installation is fully functional** as there
 will be no time during the masterclass to fix individual installation
-problems. I fyou are able to run the two .R files without errors or
+problems. If you are able to run the two .R files without errors or
 warnings, you are good to go.
 
 You may want to set a day aside before the masterclass to prepare. Just
